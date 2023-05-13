@@ -1,0 +1,589 @@
+#zdj1{
+    position: absolute;
+    width: 107px;
+    height: 96px;
+    left: 120px;
+    top: -7px;
+    
+    background: url(image.png);
+    transform: rotate(20deg);
+}
+
+#ps{
+    position: absolute;
+    width: 72px;
+    height: 48px;
+    left: 74px;
+    top: 32px;
+
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+
+    color: #000000;
+}
+
+#ds{
+    position: absolute;
+    width: 169px;
+    height: 42px;
+    left: 190px;
+    top: 32px;
+
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+
+    color: #000000;
+}
+
+#zdj2{
+    position: absolute;
+    width: 42px;
+    height: 0px;
+    left: 16px;
+    top: 55.5px;
+
+    border: 1px solid #000000;
+}
+
+#zdj3{
+    position: absolute;
+    width: 42px;
+    height: 0px;
+    left: 338px;
+    top: 55.5px;
+
+    border: 1px solid #000000;
+}
+
+#zdj4{
+    position: absolute;
+    width: 360px;
+    height: 0px;
+    left: 18px;
+    top: 115.5px;
+
+    border: 3px solid #985589;
+    filter: blur(2px);
+}
+
+#zdj5{
+    position: absolute;
+    width: 247px;
+    height: 30px;
+    left: -6px;
+    top: 143px;
+
+    background: url(image.png);
+}
+
+#zdj6{
+    position: absolute;
+    width: 53.92px;
+    height: 50px;
+    left: 241px;
+    top: 133px;
+
+    background: url(image);
+
+}
+
+#zdj7{position: absolute;
+    width: 61.84px;
+    height: 50px;
+    left: 315px;
+    top: 133px;
+    
+    background: url(image.png);
+}
+
+#fig1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 357px;
+    height: 40px;
+    left: 18px;
+    top: 207px;
+
+    background: #F1B2DE;
+    border: 1px solid #985589;
+    border-radius: 100px;
+}
+
+#nap1{
+    position: absolute;
+    width: 209px;
+    height: 17px;
+    left: 139px;
+    top: 210px;
+
+    font-family: 'Bodoni Moda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 37px;
+
+    color: #000000;
+}
+
+#zdj8{
+    position: absolute;
+    width: 42px;
+    height: 0px;
+    left: 82px;
+    top: 226.5px;
+
+    border: 1px solid #000000;
+}
+
+#zdj9{
+    position: absolute;
+    width: 42px;
+    height: 0px;
+    left: 261px;
+    top: 226.5px;
+
+    border: 1px solid #000000;
+}
+
+#zdj10{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 16px;
+    top: 258px;
+
+    background: url(image.png);
+}
+
+#nap2{
+    position: absolute;
+    width: 60px;
+    height: 10px;
+    left: 33px;
+    top: 341px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#zdj11{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 156px;
+    top: 258px;
+
+    background: url(image.png);
+}
+
+#nap3{
+    position: absolute;
+    width: 58px;
+    height: 10px;
+    left: 177px;
+    top: 341px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#nap4{
+    position: absolute;
+    width: 50px;
+    height: 10px;
+    left: 309px;
+    top: 341px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000
+}
+
+#zdj12{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 288px;
+    top: 258px;
+
+    background: url(image.png);
+}
+
+#zdj13{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 23px;
+    top: 386px;
+
+    background: url(image.png);
+}
+
+
+#zdj15{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 295px;
+    top: 386px;
+
+    background: url(image.png);
+}
+
+#zdj14{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 159px;
+    top: 386px;
+
+    background: url(image.png);
+}
+
+#nap5{
+    position: absolute;
+    width: 57px;
+    height: 10px;
+    left: 44px;
+    top: 472px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#nap6{
+    position: absolute;
+    width: 70px;
+    height: 10px;
+    left: 161px;
+    top: 472px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#nap7{
+
+    position: absolute;
+    width: 53px;
+    height: 10px;
+    left: 315px;
+    top: 472px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#fig2{
+        
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 357px;
+    height: 40px;
+    left: 18px;
+    top: 515px;
+
+    background: #F1B2DE;
+    border: 1px solid #985589;
+    border-radius: 100px;
+}
+
+#nap8{
+    position: absolute;
+    width: 149px;
+    height: 32px;
+    left: 124px;
+    top: 519px;
+
+    font-family: 'Bodoni Moda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 37px;
+
+    color: #000000;
+}
+#fig3{
+    position: absolute;
+    width: 42px;
+    height: 0px;
+    left: 67px;
+    top: 534.5px;
+
+    border: 1px solid #000000;
+}
+
+#fig4{
+    position: absolute;
+    width: 42px;
+    height: 0px;
+    left: 282px;
+    top: 534.5px;
+
+    border: 1px solid #000000;
+}
+
+#zdj16{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 23px;
+    top: 578px;
+
+    background: url(image.png);
+}
+
+#zdj18{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 288px;
+    top: 578px;
+
+    background: url(image.png);
+}
+
+#nap9{
+    position: absolute;
+    width: 146px;
+    height: 10px;
+    left: 16px;
+    top: 658px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#nap11{
+    position: absolute;
+    width: 62px;
+    height: 10px;
+    left: 297px;
+    top: 658px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#nap10{
+    position: absolute;
+    width: 65px;
+    height: 10px;
+    left: 172px;
+    top: 658px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#zdj17{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 156px;
+    top: 568px;
+
+    background: url(image.png);
+}
+
+#zdj19{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 23px;
+    top: 698px;
+
+    background: url(image.png);
+}
+
+#nap12{
+    position: absolute;
+    width: 76px;
+    height: 10px;
+    left: 27px;
+    top: 780px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+ #zdj20{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 156px;
+    top: 700px;
+
+    background: url(image.png);
+ }
+
+ #nap13{
+    position: absolute;
+    width: 79px;
+    height: 10px;
+    left: 163px;
+    top: 778px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+ }
+
+ #zdj21{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 288px;
+    top: 700px;
+
+    background: url(image.png);
+ }
+
+ #nap14{
+    position: absolute;
+    width: 84px;
+    height: 10px;
+    left: 284px;
+    top: 780px;
+
+    font-family: 'Dokdo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+ }
+
+ #fig5{
+    position: absolute;
+    width: 360px;
+    height: 0px;
+    left: 16px;
+    top: 805px;
+
+    border: 3px solid #985589;
+    filter: blur(2px);
+ }
+
+ #zdj22{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 23px;
+    top: 820px;
+
+    background: url(image.png);
+ }
+ 
+ #nap15{
+    position: absolute;
+    width: 60px;
+    height: 16px;
+    left: 63px;
+    top: 817px;
+
+    font-family: 'Dongle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #000000;
+ }
+
+ #zdj23{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 123px;
+    top: 820px;
+
+    background: url(image.png);
+ }
+
+ #nap16{
+    position: absolute;
+    width: 89px;
+    height: 10px;
+    left: 245px;
+    top: 820px;
+
+    font-family: 'Dongle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #000000;
+ }
+
+ #zdj24{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 334px;
+    top: 820px;
+
+    background: url(image.png);
+ }
